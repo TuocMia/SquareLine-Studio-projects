@@ -1,0 +1,16 @@
+{
+  "codename": "digi40",
+  "ttf_path": "/assets/DS-DIGI.TTF",
+  "bin_path": "/assets\\ui_font_digi40.bin",
+  "c_path": "/assets\\ui_font_digi40.c",
+  "cfg_path": "/assets\\ui_font_digi40.fcfg",
+  "size": 40,
+  "bpp": 4,
+  "letters": 0,
+  "ranges": [
+    "0x20-0x7f"
+  ],
+  "symbols": "",
+  "customparams": "--no-compress --no-prefilter",
+  "uploaded": false
+}
