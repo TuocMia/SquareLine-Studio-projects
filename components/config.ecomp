@@ -396,17 +396,6 @@
                   "strtype": "_style/Bg_Radius",
                   "integer": 50,
                   "InheritedType": 6
-                },
-                {
-                  "nid": 40520,
-                  "strtype": "_style/Bg_Color",
-                  "intarray": [
-                    1,
-                    232,
-                    0,
-                    255
-                  ],
-                  "InheritedType": 7
                 }
               ],
               "InheritedType": 1
@@ -735,7 +724,7 @@
     {
       "nid": 10,
       "strtype": "OBJECT/Name",
-      "strval": "Panel1",
+      "strval": "config",
       "InheritedType": 10
     },
     {
