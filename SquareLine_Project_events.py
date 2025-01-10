@@ -158,3 +158,47 @@ def thaymaul4(event_struct):
 def thaydosangl4(event_struct):
     return
 
+
+def OnOff(event_struct):
+    return
+
+
+def OnOff000(event_struct):
+    return
+
+
+def OnOffdevice1(event_struct):
+    return
+
+
+def OnOffLight1(event_struct):
+    return
+
+
+def OnOffDev1(event_struct):
+    return
+
+
+def OnOffDev2(event_struct):
+    return
+
+
+def OnOffLight2(event_struct):
+    return
+
+
+def OnOffrgb1(event_struct):
+    return
+
+
+def OnOffrgb2(event_struct):
+    return
+
+
+def OnOffLight3(event_struct):
+    return
+
+
+def OnOffLight4(event_struct):
+    return
+
